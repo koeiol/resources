@@ -2,7 +2,7 @@
 	"request": [
 		{
 			"enable": true,
-			"name": "Google reCAPTCHA Bypass",
+			"name": "Google reCAPTCHA Bypass - koeiol.com",
 			"ruleType": "redirect",
 			"matchType": "url",
 			"pattern": "https://www.google.com/recaptcha/api.js",
